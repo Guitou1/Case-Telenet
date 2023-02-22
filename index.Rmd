@@ -19,6 +19,17 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 .title {
   display: none;
 }
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    background-color: orange;
+}
+
+a:link {
+    color: green;
+}
+
+ a:hover {
+    color: red;
+}
 
 #getting-started img {
   margin-right: 10px;
@@ -32,13 +43,13 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 # Access your e-mails
 
-1. For **gmail**, click on this link : <https://www.google.com/intl/en/gmail/about/>.
+1. For **Gmail**, click on this link : <https://www.google.com/intl/en/gmail/about/>.
 
-2. For **outlook**, click on this link : <https://outlook.live.com/owa/>.
+2. For **Outlook**, click on this link : <https://outlook.live.com/owa/>.
 
 #### Need help to register ?
 
-1. If you already have an account, click on **‘sign in’**. 
+1. If you already have an account, click on **‘Sign in’**. 
 
 2. If you don’t have an account yet, click on **'Create an account'**.
 
@@ -55,6 +66,38 @@ We suggest you call the client service:
 1. Call Belfius at : 02 222 12 02
 
 2. Call BNP at : 00 33 1 57 08 22 00
+
+# Going somewhere ?
+
+Put in an address, search for a shop, restaurant or a medical center using this helpful tool: [Google Maps](https://www.google.com/maps).
+
+# Practical links
+
+These links could be useful to you:
+
+1. [Google](https://www.google.com/)
+2. [Youtube](https://www.youtube.com/)
+3. [Smartshcool](https://www.smartschool.be/)
+4. [Het Laatste Nieuws](https://www.hln.be/)
+5. [Le Soir](https://www.lesoir.be/)
+
+# Looking for a job ?
+
+You might find a job you're interested in using these links:
+
+1.[Find a job in Flanders](https://www.vlaanderen.be/werken-voor-vlaanderen/vacatures)
+
+2.[Find a job in Brussels](https://www.vdab.be/vindeenjob/jobs/brussel-regio)
+
+3.[Find a job in Wallonia](https://www.wallonie.be/en/jobs)
+
+# Redeem your gift:
+
+Thank you for using the internet, you are doing great ! Redeem the code your partner has received to have a chance at winning a brand new computer [here](). 
+
+# Want to learn more ?
+
+Are you interested in learning more ? Do you wish to further develop your digital skills ? Contact us at Telenet on this number : **015 66 66 66**. We will gladly guide you through your path to new opportunities.
 
 </div>
 <div class="col-sm-6">

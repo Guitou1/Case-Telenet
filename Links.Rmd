@@ -18,30 +18,47 @@ htmltools::img(src = knitr::image_uri(file.path("C:","Users","Gigi","OneDrive - 
                style = 'position:absolute; top:0; right:0; padding:10px;')
 ```
 
-Suivez les étapes de cette page pour accéder à ce dont vous avez besoin en quelques clics seulement. Vous pouvez changer la langue en haut de l'écran. Besoin d'aide ? **Appelez-nous au 015 66 66 66.** Nous sommes là pour vous ! Vous n'avez pas besoin de ce guide ? Cliquez [ici](https://www.google.com/).
+<style type="text/css">
+.title {
+  display: none;
+}
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    background-color: orange;
+}
 
-# Access your e-mails
+a:link {
+    color: green;
+}
 
-1. For **gmail**, click on this link : <https://www.google.com/intl/en/gmail/about/>.
+ a:hover {
+    color: red;
+}
+</style>
 
-2. For **outlook**, click on this link : <https://outlook.live.com/owa/>.
+Suivez les étapes de cette page pour accéder à ce dont vous avez besoin en quelques clics seulement. Vous pouvez changer la langue en haut de l'écran. \hfill \break Besoin d'aide ? **Appelez-nous au 015 66 66 66.** Nous sommes là pour vous ! Vous n'avez pas besoin de ce guide ? Cliquez [ici](https://www.google.com/).
 
-#### Need help to register ?
+# Accédez à vos mails:
 
-1. If you already have an account, click on **‘sign in’**. 
+1. Pour **Gmail**, cliquez sur ce lien: <https://www.google.com/intl/fr/gmail/about/>.
 
-2. If you don’t have an account yet, click on **'Create an account'**.
+2. Pour **Outlook**, cliquez sur ce lien: <https://outlook.live.com/owa/>.
+
+#### Besoin d'aide pour vous connecter ?
+
+1. Si vous avez déjà un compte, cliquez sur **‘Sign in’**. 
+
+2. Si vous n'avez pas encore de compte, cliquez sur **'Create an account'**.
 
 # Access your bank account
 
-1. For **Belfius**, click on this link : <https://www.belfius.be/common/FR/fw/language.html>.
+1. Pour **Belfius**, cliquez sur ce lien: <https://www.belfius.be/common/FR/fw/language.html>.
 
-2. For **BNP**, click on this link : <http://rmarkdown.rstudio.com>.
+2. Pour **BNP**, cliquez sur ce lien: <http://rmarkdown.rstudio.com>.
 
-#### Need more help ?
+#### Besoin d'aide ?
 
-We suggest you call the client service:
+Nous suggérons que vous appeliez le service client :
 
-1. Call Belfius at : 02 222 12 02
+1. Appelez Belfius au : 02 222 12 02
 
-2. Call BNP at : 00 33 1 57 08 22 00
+2. Appelez BNP au : 00 33 1 57 08 22 00

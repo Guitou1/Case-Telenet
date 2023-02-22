@@ -23,20 +23,35 @@ htmltools::img(src = knitr::image_uri(file.path("C:","Users","Gigi","OneDrive - 
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
+<style type="text/css">
+.title {
+  display: none;
+}
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    background-color: orange;
+}
 
+a:link {
+    color: green;
+}
+
+ a:hover {
+    color: red;
+}
+</style>
 
 Volg de eenvoudige stappen op deze pagina om in een paar klikken toegang te krijgen tot wat u nodig hebt. U kunt de taal bovenaan het scherm veranderen. Meer hulp nodig? **Bel ons: 015 66 66 66.** Wij zijn er voor u ! Heeft u deze gids niet nodig? Druk [hier](https://www.google.com/).
 
 
 # Bekijk uw e-mails
 
-1. Voor **gmail**, druk op deze link : <https://www.google.com/intl/nl/gmail/about/>.
+1. Voor **Gmail**, druk op deze link : <https://www.google.com/intl/nl/gmail/about/>.
 
-2. Voor **outlook**, druk op deze link : <https://outlook.live.com/owa/>.
+2. Voor **Outlook**, druk op deze link : <https://outlook.live.com/owa/>.
 
 #### Hulp nodig ?
 
-1. Hebt u al een account ? Druk dan op **‘sign in’**. 
+1. Hebt u al een account ? Druk dan op **‘Sign in’**. 
 2. Hebt u nog geen account ? Druk dan op **'Create an account'**.
 
 
@@ -54,4 +69,17 @@ We raden u aan de klantendienst te bellen:
 
 2. Bel BNP: 00 33 1 57 08 22 00
 
+# Ergens naartoe ?
+
+Hebt u een adres, zoekt u naar een winkel, restaurant of doktershuis ? Gebruik dan dit hulpmiddel : [Google Maps](https://www.google.com/maps).
+
+# Praktische links
+
+Deze links zijn het meest bezocht in België:
+
+1. [Google](https://www.google.com/)
+2. [Youtube](https://www.youtube.com/)
+3. [Smartshcool](https://www.smartschool.be/)
+4. [Het Laatste Nieuws](https://www.hln.be/)
+5. [Le Soir](https://www.lesoir.be/)
 
