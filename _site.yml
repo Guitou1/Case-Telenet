@@ -1,11 +1,11 @@
-name: "MyLabJournal"
+name: "Internet Guide"
 navbar:
-  title: "MyLabJournal"
+  title: "Internet Guide"
   left:
-    - text: "Home"
+    - text: "English"
       href: index.html
-    - text: "Journal"
+    - text: "Nederlands"
       href: Journal.html
-    - text: "Links"
+    - text: "Français"
       href: Links.html
 output_dir: "docs"

@@ -1,7 +1,17 @@
 ---
-title: "MyLabJournal"
-output: html_document
+author: "Technologie duwt ons pas vooruit als niemand achterblijft"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 1
+    #code_folding: hide
 ---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
+```
 
 <style type="text/css">
 .title {
@@ -17,27 +27,43 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **My Lab Journal**
 
-This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
+# Access your e-mails
 
-## How to use
+1. For **gmail**, click on this link : <https://www.google.com/intl/en/gmail/about/>.
 
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
+2. For **outlook**, click on this link : <https://outlook.live.com/owa/>.
 
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
+#### Need help to register ?
 
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
+1. If you already have an account, click on **‘sign in’**. 
 
-4. Change everything to make it your own.
+2. If you don’t have an account yet, click on **'Create an account'**.
 
+# Access your bank account
+
+1. For **Belfius**, click on this link : <https://www.belfius.be/common/FR/fw/language.html>.
+
+2. For **BNP**, click on this link : <http://rmarkdown.rstudio.com>.
+
+#### Need more help ?
+
+We suggest you call the client service:
+
+1. Call Belfius at : 02 222 12 02
+
+2. Call BNP at : 00 33 1 57 08 22 00
 
 </div>
 <div class="col-sm-6">
 
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
+# **Learn digital skills here**
 
-<a href = "https://crumplab.github.io">
-![](images/logo.png)
+[![](images/logo.png)](https://www2.telenet.be/residential/nl)
+
+\break
+
+## *"Technologie duwt ons pas vooruit als niemand achterblijft."*
+Follow the simple steps on this page to access what you need in only a few clicks. You can change the language at the top of the screen. Need more help ? **Call us: 015 66 66 66.** We are here for you ! Don’t need this guide ? Click [here]().
 </a>
 </div>

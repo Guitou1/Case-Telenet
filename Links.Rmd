@@ -1,19 +1,39 @@
 ---
-title: "Resources"
-output: html_document
+title: "Apprenez à manier l'informatique ici !"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 1
+    #code_folding: hide
 ---
 
-### R and R-Studio
+Suivez les étapes de cette page pour accéder à ce dont vous avez besoin en quelques clics seulement. Vous pouvez changer la langue en haut de l'écran. Besoin d'aide ? **Appelez-nous au 015 66 66 66.** Nous sommes là pour vous ! Vous n'avez pas besoin de ce guide ? Cliquez [ici]().
 
-[R](http://www.r-project.org) is a free open-source programming language that can be used for statistical analysis, data-simulation, graphing, and lots of other stuff. Another free program is [R-studio](http://www.rstudio.com), that provides a nice graphic interface for R. Download R first, then download R-studio. Both can run on PCs, Macs or Linux. Students will be learning R in the stats labs using the lab manual []().
+# Access your e-mails
 
-### Additional R resources
+1. For **gmail**, click on this link : <https://www.google.com/intl/en/gmail/about/>.
 
-1. Google is great, Google your problem
-2. [Stackoverflow](https://stackoverflow.com) is great, google will often take you there because someone has already asked your question, and someone else has answered, usually many people have answered your question many ways.
-3. Danielle Navarro wrote a [free Psych Stats textbook using R](https://compcogscisydney.org/learning-statistics-with-r/), it's worth checking out (some of our textbook are based on Danielle's)
-4. I am currently writing another stats textbook (incorporating some of the above). You can read it while it's being made right here [https://crumplab.github.io/statistics/](https://crumplab.github.io/statistics/), also check out the lab manual for more specific things about doing various stats in R (also in draft right now) [https://crumplab.github.io/statisticsLab/](https://crumplab.github.io/statisticsLab/)
-5. Daniell Navarro recently made this website for introducing R, it's great, check it out (also made using this R markdown process): [http://compcogscisydney.org/psyr/](http://compcogscisydney.org/psyr/)
-6. Check out my slightly older programming book that also introduces R [https://crumplab.github.io/programmingforpsych/](https://crumplab.github.io/programmingforpsych/)
-7. This is the definitive guide for all things R Markdown (you will find this very useful as you get better at this skill): [https://bookdown.org/yihui/rmarkdown/](https://bookdown.org/yihui/rmarkdown/)
+2. For **outlook**, click on this link : <https://outlook.live.com/owa/>.
 
+#### Need help to register ?
+
+1. If you already have an account, click on **‘sign in’**. 
+
+2. If you don’t have an account yet, click on **'Create an account'**.
+
+# Access your bank account
+
+1. For **Belfius**, click on this link : <https://www.belfius.be/common/FR/fw/language.html>.
+
+2. For **BNP**, click on this link : <http://rmarkdown.rstudio.com>.
+
+#### Need more help ?
+
+We suggest you call the client service:
+
+1. Call Belfius at : 02 222 12 02
+
+2. Call BNP at : 00 33 1 57 08 22 00
