@@ -25,7 +25,7 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 
 
-Volg de eenvoudige stappen op deze pagina om in een paar klikken toegang te krijgen tot wat u nodig hebt. U kunt de taal bovenaan het scherm veranderen. Meer hulp nodig? **Bel ons: 015 66 66 66.** Wij zijn er voor u ! Heeft u deze gids niet nodig? Druk [hier]().
+Volg de eenvoudige stappen op deze pagina om in een paar klikken toegang te krijgen tot wat u nodig hebt. U kunt de taal bovenaan het scherm veranderen. Meer hulp nodig? **Bel ons: 015 66 66 66.** Wij zijn er voor u ! Heeft u deze gids niet nodig? Druk [hier](https://www.google.com/).
 
 
 # Bekijk uw e-mails

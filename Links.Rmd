@@ -18,7 +18,7 @@ htmltools::img(src = knitr::image_uri(file.path("C:","Users","Gigi","OneDrive - 
                style = 'position:absolute; top:0; right:0; padding:10px;')
 ```
 
-Suivez les étapes de cette page pour accéder à ce dont vous avez besoin en quelques clics seulement. Vous pouvez changer la langue en haut de l'écran. Besoin d'aide ? **Appelez-nous au 015 66 66 66.** Nous sommes là pour vous ! Vous n'avez pas besoin de ce guide ? Cliquez [ici]().
+Suivez les étapes de cette page pour accéder à ce dont vous avez besoin en quelques clics seulement. Vous pouvez changer la langue en haut de l'écran. Besoin d'aide ? **Appelez-nous au 015 66 66 66.** Nous sommes là pour vous ! Vous n'avez pas besoin de ce guide ? Cliquez [ici](https://www.google.com/).
 
 # Access your e-mails
 
