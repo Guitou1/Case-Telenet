@@ -57,7 +57,7 @@ We suggest you call the client service:
 </div>
 <div class="col-sm-6">
 
-# **Learn digital skills here**
+# **Learn digital skills here**{.unlisted .unnumbered}
 
 [![](images/logo.png)](https://www2.telenet.be/residential/nl)
 
