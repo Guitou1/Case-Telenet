@@ -10,13 +10,6 @@ output:
     #code_folding: hide
 ---
 
-```{r, echo=FALSE}
-htmltools::img(src = knitr::image_uri(file.path("C:","Users","Gigi","OneDrive - UCL","Documents","UCL","MASTER","MASTER 2","Q2","Model biologiques","github","Internet Guide","bon","Case-Telenet","images", "logo2.png")), 
-               alt = 'logo', 
-               width = "80",
-               height = "80",
-               style = 'position:absolute; top:0; right:0; padding:10px;')
-```
 
 
 ```{r setup, include=FALSE}
@@ -40,7 +33,9 @@ a:link {
 }
 </style>
 
-Volg de eenvoudige stappen op deze pagina om in een paar klikken toegang te krijgen tot wat u nodig hebt. U kunt de taal bovenaan het scherm veranderen. Meer hulp nodig? **Bel ons: 015 66 66 66.** Wij zijn er voor u ! Heeft u deze gids niet nodig? Druk [hier](https://www.google.com/).
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
 
 
 # Bekijk uw e-mails
@@ -83,3 +78,33 @@ Deze links zijn het meest bezocht in België:
 4. [Het Laatste Nieuws](https://www.hln.be/)
 5. [Le Soir](https://www.lesoir.be/)
 
+# Baan op zocht ?
+
+Misschien vindt u via deze links een baan waarin u geïnteresseerd bent:
+
+1.[Jobs in Vlaanderen](https://www.vlaanderen.be/werken-voor-vlaanderen/vacatures)
+
+2.[Jobs in Brussel](https://www.vdab.be/vindeenjob/jobs/brussel-regio)
+
+3.[Jobs in Wallonië](https://www.wallonie.be/nl/jobs)
+
+# Referral code
+
+Bedankt voor het gebruik van het internet, je doet het geweldig! Wissel de code die uw partner heeft ontvangen [hier]() in om kans te maken op een gloednieuwe computer. 
+
+# Wil je meer leren ?
+
+Wilt u meer leren ? Wilt u uw digitale vaardigheden verder ontwikkelen ? Contacteer ons bij Telenet op dit nummer : **015 66 66 66**. Wij begeleiden u graag op uw weg naar nieuwe opportuniteiten.
+</div>
+<div class="col-sm-6">
+
+# **Leer digitale vaardigheden hier**{.unlisted .unnumbered}
+
+[![](images/logo.png)](https://www2.telenet.be/residential/nl)
+
+\break
+
+## *"Technologie duwt ons pas vooruit als niemand achterblijft."*
+Volg de eenvoudige stappen op deze pagina om in een paar klikken toegang te krijgen tot wat u nodig hebt. U kunt de taal bovenaan het scherm veranderen. Meer hulp nodig? **Bel ons: 015 66 66 66.** Wij zijn er voor u ! Heeft u deze gids niet nodig? Druk [hier](https://www.google.com/).
+</a>
+</div>
