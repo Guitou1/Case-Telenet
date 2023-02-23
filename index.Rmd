@@ -59,7 +59,7 @@ a:link {
 
 2. For **BNP**, click on this link : <http://rmarkdown.rstudio.com>.
 
-#### Need more help ?
+#### Need more help?
 
 We suggest you call the client service:
 
@@ -67,11 +67,11 @@ We suggest you call the client service:
 
 2. Call BNP at : 00 33 1 57 08 22 00
 
-# Going somewhere ?
+# Going somewhere?
 
 Put in an address, search for a shop, restaurant or a medical center using this helpful tool: [Google Maps](https://www.google.com/maps).
 
-# Practical links
+# Useful links
 
 These links could be useful to you:
 
@@ -81,7 +81,7 @@ These links could be useful to you:
 4. [Het Laatste Nieuws](https://www.hln.be/)
 5. [Le Soir](https://www.lesoir.be/)
 
-# Looking for a job ?
+# Looking for a job?
 
 You might find a job you're interested in using these links:
 
@@ -95,7 +95,7 @@ You might find a job you're interested in using these links:
 
 Thank you for using the internet, you are doing great ! Redeem the code your partner has received to have a chance at winning a brand new computer [here](). 
 
-# Want to learn more ?
+# Want to learn more?
 
 Are you interested in learning more ? Do you wish to further develop your digital skills ? Contact us at Telenet on this number : **015 66 66 66**. We will gladly guide you through your path to new opportunities.
 
@@ -109,6 +109,9 @@ Are you interested in learning more ? Do you wish to further develop your digita
 \break
 
 ## *"Technology only pushes us forward if no one is left behind."*
-Follow the simple steps on this page to access what you need in only a few clicks. You can change the language at the top of the screen. Need more help ? **Call us: 015 66 66 66.** We are here for you ! Don’t need this guide ? Click [here](https://www.google.com/).
+Follow the simple steps on this page to access what you need in only a few clicks. You can change the language at the top of the screen. Need more help ? **Call us: 015 66 66 66.** We are here for you ! 
+
+
+Don’t need this guide ? Click [here](https://www.google.com/).
 </a>
 </div>
