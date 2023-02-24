@@ -1,5 +1,5 @@
 ---
-author: "Technologie duwt ons pas vooruit als niemand achterblijft"
+author: "Learn digital skills here"
 output:
   html_document:
     toc: true
