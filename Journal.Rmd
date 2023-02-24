@@ -40,7 +40,7 @@ a:link {
 
 # Bekijk uw e-mails
 
-1. Voor **Gmail**, druk op deze link : <https://www.google.com/intl/nl/gmail/about/>{target="_blank"}.
+1. Voor **Gmail**, druk op deze link : <https://www.google.com/intl/en/gmail/about/>{target="_blank"}.
 
 2. Voor **Outlook**, druk op deze link : <https://outlook.live.com/owa/>{target="_blank"}.
 

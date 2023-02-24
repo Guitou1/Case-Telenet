@@ -34,7 +34,7 @@ a:link {
 
 # Accédez à vos mails:
 
-1. Pour **Gmail**, cliquez sur ce lien: <https://www.google.com/intl/fr/gmail/about/>{target="_blank"}.
+1. Pour **Gmail**, cliquez sur ce lien: <https://www.google.com/intl/en/gmail/about/>{target="_blank"}.
 
 2. Pour **Outlook**, cliquez sur ce lien: <https://outlook.live.com/owa/>{target="_blank"}.
 
@@ -84,7 +84,7 @@ Cliquez sur la région qui vous intéresse en ce qui concerne une recherche de j
 
 2.[Emplois à Bruxelles](https://www.vdab.be/vindeenjob/jobs/brussel-regio){target="_blank"}
 
-3.[Emplois en Wallonie](https://www.wallonie.be/en/jobs){target="_blank"}
+3.[Emplois en Wallonie](https://www.wallonie.be/fr/jobs){target="_blank"}
 
 # Code de parrainage
 
