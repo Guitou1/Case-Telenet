@@ -40,9 +40,9 @@ a:link {
 
 # Bekijk uw e-mails
 
-1. Voor **Gmail**, druk op deze link : <https://www.google.com/intl/nl/gmail/about/>.
+1. Voor **Gmail**, druk op deze link : <https://www.google.com/intl/nl/gmail/about/>{target="_blank"}.
 
-2. Voor **Outlook**, druk op deze link : <https://outlook.live.com/owa/>.
+2. Voor **Outlook**, druk op deze link : <https://outlook.live.com/owa/>{target="_blank"}.
 
 #### Hulp nodig ?
 
@@ -52,9 +52,9 @@ a:link {
 
 # Toegang tot uw bank
 
-1. Voor **Belfius**, druk op deze link : <https://www.belfius.be/common/FR/fw/language.html>.
+1. Voor **Belfius**, druk op deze link : <https://www.belfius.be/common/FR/fw/language.html>{target="_blank"}.
 
-2. Voor **BNP**, druk op deze link : <http://rmarkdown.rstudio.com>.
+2. Voor **BNP**, druk op deze link : <https://www.bnpparibasfortis.be/en/index-EN?axes4=priv>{target="_blank"}.
 
 #### Meer hulp nodig ?
 
@@ -70,27 +70,27 @@ Zoekt u iets op internet? Gebruik de zoekbalk bovenaan het scherm. Klik erop en 
 
 # Ergens naartoe ?
 
-Hebt u een adres, zoekt u naar een winkel, restaurant of doktershuis ? Gebruik dan dit hulpmiddel : [Google Maps](https://www.google.com/maps).
+Hebt u een adres, zoekt u naar een winkel, restaurant of doktershuis ? Gebruik dan dit hulpmiddel : [Google Maps](https://www.google.com/maps){target="_blank"}.
 
 # Praktische links
 
 Deze links zijn het meest bezocht in België:
 
-1. [Google](https://www.google.com/)
-2. [Youtube](https://www.youtube.com/)
-3. [Smartshcool](https://www.smartschool.be/)
-4. [Het Laatste Nieuws](https://www.hln.be/)
-5. [Le Soir](https://www.lesoir.be/)
+1. [Google](https://www.google.com/){target="_blank"}
+2. [Youtube](https://www.youtube.com/){target="_blank"}
+3. [Smartshcool](https://www.smartschool.be/){target="_blank"}
+4. [Het Laatste Nieuws](https://www.hln.be/){target="_blank"}
+5. [Le Soir](https://www.lesoir.be/){target="_blank"}
 
 # Baan op zocht ?
 
 Misschien vindt u via deze links een baan waarin u geïnteresseerd bent:
 
-1.[Jobs in Vlaanderen](https://www.vlaanderen.be/werken-voor-vlaanderen/vacatures)
+1.[Jobs in Vlaanderen](https://www.vlaanderen.be/werken-voor-vlaanderen/vacatures){target="_blank"}
 
-2.[Jobs in Brussel](https://www.vdab.be/vindeenjob/jobs/brussel-regio)
+2.[Jobs in Brussel](https://www.vdab.be/vindeenjob/jobs/brussel-regio){target="_blank"}
 
-3.[Jobs in Wallonië](https://www.wallonie.be/nl/jobs)
+3.[Jobs in Wallonië](https://www.wallonie.be/fr/jobs){target="_blank"}
 
 # Referral code
 
@@ -104,7 +104,7 @@ Wilt u meer leren ? Wilt u uw digitale vaardigheden verder ontwikkelen ? Contact
 
 # **Leer digitale vaardigheden hier**{.unlisted .unnumbered}
 
-[![](images/logo.png)](https://www2.telenet.be/residential/nl)
+[![](images/logo.png)](https://www2.telenet.be/residential/nl){target="_blank"}
 
 \break
 

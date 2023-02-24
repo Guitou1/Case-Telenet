@@ -34,9 +34,9 @@ a:link {
 
 # Accédez à vos mails:
 
-1. Pour **Gmail**, cliquez sur ce lien: <https://www.google.com/intl/fr/gmail/about/>.
+1. Pour **Gmail**, cliquez sur ce lien: <https://www.google.com/intl/fr/gmail/about/>{target="_blank"}.
 
-2. Pour **Outlook**, cliquez sur ce lien: <https://outlook.live.com/owa/>.
+2. Pour **Outlook**, cliquez sur ce lien: <https://outlook.live.com/owa/>{target="_blank"}.
 
 #### Besoin d'aide pour vous connecter ?
 
@@ -46,9 +46,9 @@ a:link {
 
 # Access your bank account
 
-1. Pour **Belfius**, cliquez sur ce lien: <https://www.belfius.be/common/FR/fw/language.html>.
+1. Pour **Belfius**, cliquez sur ce lien: <https://www.belfius.be/common/FR/fw/language.html>{target="_blank"}.
 
-2. Pour **BNP**, cliquez sur ce lien: <http://rmarkdown.rstudio.com>.
+2. Pour **BNP**, cliquez sur ce lien: <https://www.bnpparibasfortis.be/en/index-EN?axes4=priv>{target="_blank"}.
 
 #### Besoin d'aide ?
 
@@ -64,27 +64,27 @@ Vous cherchez quelque chose sur Internet ? Essayez d'utiliser la barre de recher
 
 # Un déplacement ?
 
-Mettez une adresse, trouvez des magasins, des restaurants ou des centres médicaux à l'aide de cet outil: [Google Maps](https://www.google.com/maps).
+Mettez une adresse, trouvez des magasins, des restaurants ou des centres médicaux à l'aide de cet outil: [Google Maps](https://www.google.com/maps){target="_blank"}.
 
 # Liens pratiques
 
 Ces quelques liens peuvent vous être utile:
 
-1. [Google](https://www.google.com/)
-2. [Youtube](https://www.youtube.com/)
-3. [Smartshcool](https://www.smartschool.be/)
-4. [Het Laatste Nieuws](https://www.hln.be/)
-5. [Le Soir](https://www.lesoir.be/)
+1. [Google](https://www.google.com/){target="_blank"}
+2. [Youtube](https://www.youtube.com/){target="_blank"}
+3. [Smartshcool](https://www.smartschool.be/){target="_blank"}
+4. [Het Laatste Nieuws](https://www.hln.be/){target="_blank"}
+5. [Le Soir](https://www.lesoir.be/){target="_blank"}
 
 # A la recherche d'emploi ?
 
 Cliquez sur la région qui vous intéresse en ce qui concerne une recherche de jobs:
 
-1.[Emplois en Flandre](https://www.vlaanderen.be/werken-voor-vlaanderen/vacatures)
+1.[Emplois en Flandre](https://www.vlaanderen.be/werken-voor-vlaanderen/vacatures){target="_blank"}
 
-2.[Emplois à Bruxelles](https://www.vdab.be/vindeenjob/jobs/brussel-regio)
+2.[Emplois à Bruxelles](https://www.vdab.be/vindeenjob/jobs/brussel-regio){target="_blank"}
 
-3.[Emplois en Wallonie](https://www.wallonie.be/en/jobs)
+3.[Emplois en Wallonie](https://www.wallonie.be/en/jobs){target="_blank"}
 
 # Code de parrainage
 
@@ -99,7 +99,7 @@ La digitalisation vous interesse ? Voulez-vous développer vos connaissances en 
 
 # **Développez vos connaissances digitales ici**{.unlisted .unnumbered}
 
-[![](images/logo.png)](https://www2.telenet.be/residential/fr)
+[![](images/logo.png)](https://www2.telenet.be/residential/fr){target="_blank"}
 
 \break
 

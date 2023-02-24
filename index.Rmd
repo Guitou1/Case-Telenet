@@ -43,9 +43,9 @@ a:link {
 
 # Access your e-mails
 
-1. For **Gmail**, click on this link : <https://www.google.com/intl/en/gmail/about/>.
+1. For **Gmail**, click on this link : <https://www.google.com/intl/en/gmail/about/>{target="_blank"}.
 
-2. For **Outlook**, click on this link : <https://outlook.live.com/owa/>.
+2. For **Outlook**, click on this link : <https://outlook.live.com/owa/>{target="_blank"}.
 
 #### Need help to register ?
 
@@ -55,9 +55,9 @@ a:link {
 
 # Access your bank account
 
-1. For **Belfius**, click on this link : <https://www.belfius.be/common/FR/fw/language.html>.
+1. For **Belfius**, click on this link : <https://www.belfius.be/common/FR/fw/language.html>{target="_blank"}.
 
-2. For **BNP**, click on this link : <http://rmarkdown.rstudio.com>.
+2. For **BNP**, click on this link : <https://www.bnpparibasfortis.be/en/index-EN?axes4=priv>{target="_blank"}.
 
 #### Need more help?
 
@@ -73,27 +73,27 @@ Are you looking for something on the internet? Try using the search bar at the t
 
 # Going somewhere?
 
-Put in an address, search for a shop, restaurant or a medical center using this helpful tool: [Google Maps](https://www.google.com/maps).
+Put in an address, search for a shop, restaurant or a medical center using this helpful tool: [Google Maps](https://www.google.com/maps){target="_blank"}.
 
 # Useful links
 
 These links could be useful to you:
 
-1. [Google](https://www.google.com/)
-2. [Youtube](https://www.youtube.com/)
-3. [Smartshcool](https://www.smartschool.be/)
-4. [Het Laatste Nieuws](https://www.hln.be/)
-5. [Le Soir](https://www.lesoir.be/)
+1. [Google](https://www.google.com/){target="_blank"}
+2. [Youtube](https://www.youtube.com/){target="_blank"}
+3. [Smartshcool](https://www.smartschool.be/){target="_blank"}
+4. [Het Laatste Nieuws](https://www.hln.be/){target="_blank"}
+5. [Le Soir](https://www.lesoir.be/){target="_blank"}
 
 # Looking for a job?
 
 You might find a job you're interested in using these links:
 
-1.[Find a job in Flanders](https://www.vlaanderen.be/werken-voor-vlaanderen/vacatures)
+1.[Find a job in Flanders](https://www.vlaanderen.be/werken-voor-vlaanderen/vacatures){target="_blank"}
 
-2.[Find a job in Brussels](https://www.vdab.be/vindeenjob/jobs/brussel-regio)
+2.[Find a job in Brussels](https://www.vdab.be/vindeenjob/jobs/brussel-regio){target="_blank"}
 
-3.[Find a job in Wallonia](https://www.wallonie.be/fr/jobs)
+3.[Find a job in Wallonia](https://www.wallonie.be/fr/jobs){target="_blank"}
 
 # Redeem your code
 
