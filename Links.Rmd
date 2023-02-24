@@ -32,7 +32,7 @@ a:link {
 <div class="col-sm-6">
 
 
-# Accédez à vos mails:
+# Accédez à vos mails
 
 1. Pour **Gmail**, cliquez sur ce lien: <https://www.google.com/intl/en/gmail/about/>{target="_blank"}.
 
@@ -44,7 +44,7 @@ a:link {
 
 2. Si vous n'avez pas encore de compte, cliquez sur **'Create an account'**.
 
-# Access your bank account
+# Accédez à votre compte bancaire
 
 1. Pour **Belfius**, cliquez sur ce lien: <https://www.belfius.be/common/FR/fw/language.html>{target="_blank"}.
 
