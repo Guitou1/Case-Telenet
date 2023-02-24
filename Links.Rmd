@@ -58,6 +58,10 @@ Nous suggérons que vous appeliez le service client :
 
 2. Appelez BNP au : 00 33 1 57 08 22 00
 
+# La barre de recherche
+
+Vous cherchez quelque chose sur Internet ? Essayez d'utiliser la barre de recherche située en haut de l'écran. Cliquez simplement dessus et tapez ce que vous cherchez. Bon surf !
+
 # Un déplacement ?
 
 Mettez une adresse, trouvez des magasins, des restaurants ou des centres médicaux à l'aide de cet outil: [Google Maps](https://www.google.com/maps).

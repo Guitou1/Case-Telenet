@@ -64,6 +64,10 @@ We raden u aan de klantendienst te bellen:
 
 2. Bel BNP: 00 33 1 57 08 22 00
 
+# De zoekbalk
+
+Zoekt u iets op internet? Gebruik de zoekbalk bovenaan het scherm. Klik erop en typ in wat u zoekt. Veel plezier met surfen!
+
 # Ergens naartoe ?
 
 Hebt u een adres, zoekt u naar een winkel, restaurant of doktershuis ? Gebruik dan dit hulpmiddel : [Google Maps](https://www.google.com/maps).

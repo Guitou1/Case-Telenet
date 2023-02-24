@@ -67,6 +67,10 @@ We suggest you call the client service:
 
 2. Call BNP at : 00 33 1 57 08 22 00
 
+# The search bar
+
+Are you looking for something on the internet? Try using the search bar at the top of the screen. Just click on it and type whatever you are looking for. Happy surfing !
+
 # Going somewhere?
 
 Put in an address, search for a shop, restaurant or a medical center using this helpful tool: [Google Maps](https://www.google.com/maps).
