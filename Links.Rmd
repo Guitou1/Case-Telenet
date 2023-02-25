@@ -1,5 +1,5 @@
 ---
-title: "Apprenez à manier l'informatique ici !"
+title: "Devenez un citoyen numérique ici !"
 output:
   html_document:
     toc: true
@@ -12,9 +12,7 @@ output:
 
 
 <style type="text/css">
-.title {
-  display: none;
-}
+
 .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
     background-color: orange;
 }
@@ -43,6 +41,16 @@ a:link {
 1. Si vous avez déjà un compte, cliquez sur **‘Sign in’**. 
 
 2. Si vous n'avez pas encore de compte, cliquez sur **'Create an account'**.
+
+# A la recherche d'emploi ?
+
+Cliquez sur la région qui vous intéresse en ce qui concerne une recherche de jobs:
+
+1.[Emplois en Flandre](https://www.vlaanderen.be/werken-voor-vlaanderen/vacatures){target="_blank"}
+
+2.[Emplois à Bruxelles](https://www.vdab.be/vindeenjob/jobs/brussel-regio){target="_blank"}
+
+3.[Emplois en Wallonie](https://www.wallonie.be/fr/jobs){target="_blank"}
 
 # Accédez à votre compte bancaire
 
@@ -76,19 +84,6 @@ Ces quelques liens peuvent vous être utile:
 4. [Het Laatste Nieuws](https://www.hln.be/){target="_blank"}
 5. [Le Soir](https://www.lesoir.be/){target="_blank"}
 
-# A la recherche d'emploi ?
-
-Cliquez sur la région qui vous intéresse en ce qui concerne une recherche de jobs:
-
-1.[Emplois en Flandre](https://www.vlaanderen.be/werken-voor-vlaanderen/vacatures){target="_blank"}
-
-2.[Emplois à Bruxelles](https://www.vdab.be/vindeenjob/jobs/brussel-regio){target="_blank"}
-
-3.[Emplois en Wallonie](https://www.wallonie.be/fr/jobs){target="_blank"}
-
-# Code de parrainage
-
-Merci d'utiliser l'internet, vous êtes bien lancé ! Activez le code de parrainage et tentez de gagner un ordinateur tout neuf [ici]().
 
 # Envie d'en apprendre plus ?
 
@@ -97,7 +92,7 @@ La digitalisation vous interesse ? Voulez-vous développer vos connaissances en 
 </div>
 <div class="col-sm-6">
 
-# **Développez vos connaissances digitales ici**{.unlisted .unnumbered}
+# **Vous n'avez pas besoin de ce guide ? Cliquez [ici](https://www.google.com/).**{.unlisted .unnumbered}
 
 [![](images/logo.png)](https://www2.telenet.be/residential/fr){target="_blank"}
 
@@ -107,7 +102,6 @@ La digitalisation vous interesse ? Voulez-vous développer vos connaissances en 
 Suivez les étapes de cette page pour accéder à ce dont vous avez besoin en quelques clics seulement. Vous pouvez changer la langue en haut de l'écran. \hfill \break Besoin d'aide ? **Appelez-nous au 015 66 66 66.** Nous sommes là pour vous ! 
 
 
-Vous n'avez pas besoin de ce guide ? Cliquez [ici](https://www.google.com/).
 
 </a>
 </div>

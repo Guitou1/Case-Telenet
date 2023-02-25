@@ -1,5 +1,5 @@
 ---
-title: "Leer digitale vaardigheden hier"
+title: "Word hier een digitale burger!"
 output:
   html_document:
     toc: true
@@ -17,9 +17,7 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
 <style type="text/css">
-.title {
-  display: none;
-}
+
 .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
     background-color: orange;
 }
@@ -49,6 +47,15 @@ a:link {
 1. Hebt u al een account ? Druk dan op **‘Sign in’**. 
 2. Hebt u nog geen account ? Druk dan op **'Create an account'**.
 
+# Baan op zocht ?
+
+Misschien vindt u via deze links een baan waarin u geïnteresseerd bent:
+
+1.[Jobs in Vlaanderen](https://www.vlaanderen.be/werken-voor-vlaanderen/vacatures){target="_blank"}
+
+2.[Jobs in Brussel](https://www.vdab.be/vindeenjob/jobs/brussel-regio){target="_blank"}
+
+3.[Jobs in Wallonië](https://www.wallonie.be/fr/jobs){target="_blank"}
 
 # Toegang tot uw bank
 
@@ -82,19 +89,6 @@ Deze links zijn het meest bezocht in België:
 4. [Het Laatste Nieuws](https://www.hln.be/){target="_blank"}
 5. [Le Soir](https://www.lesoir.be/){target="_blank"}
 
-# Baan op zocht ?
-
-Misschien vindt u via deze links een baan waarin u geïnteresseerd bent:
-
-1.[Jobs in Vlaanderen](https://www.vlaanderen.be/werken-voor-vlaanderen/vacatures){target="_blank"}
-
-2.[Jobs in Brussel](https://www.vdab.be/vindeenjob/jobs/brussel-regio){target="_blank"}
-
-3.[Jobs in Wallonië](https://www.wallonie.be/fr/jobs){target="_blank"}
-
-# Referral code
-
-Bedankt voor het gebruik van het internet, je doet het geweldig! Wissel de code die uw partner heeft ontvangen [hier]() in om kans te maken op een gloednieuwe computer. 
 
 # Wil je meer leren ?
 
@@ -102,7 +96,7 @@ Wilt u meer leren ? Wilt u uw digitale vaardigheden verder ontwikkelen ? Contact
 </div>
 <div class="col-sm-6">
 
-# **Leer digitale vaardigheden hier**{.unlisted .unnumbered}
+# **Heeft u deze gids niet nodig? Druk [hier](https://www.google.com/).**{.unlisted .unnumbered}
 
 [![](images/logo.png)](https://www2.telenet.be/residential/nl){target="_blank"}
 
@@ -112,6 +106,5 @@ Wilt u meer leren ? Wilt u uw digitale vaardigheden verder ontwikkelen ? Contact
 Volg de eenvoudige stappen op deze pagina om in een paar klikken toegang te krijgen tot wat u nodig hebt. U kunt de taal bovenaan het scherm veranderen. Meer hulp nodig? **Bel ons: 015 66 66 66.** Wij zijn er voor u ! 
 
 
-Heeft u deze gids niet nodig? Druk [hier](https://www.google.com/).
 </a>
 </div>

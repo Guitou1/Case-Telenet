@@ -1,5 +1,5 @@
 ---
-author: "Learn digital skills here"
+title : "Become a digital citizen here !"
 output:
   html_document:
     toc: true
@@ -16,9 +16,7 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
 <style type="text/css">
-.title {
-  display: none;
-}
+
 .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
     background-color: orange;
 }
@@ -53,6 +51,16 @@ a:link {
 
 2. If you don’t have an account yet, click on **'Create an account'**.
 
+# Looking for a job?
+
+You might find a job you're interested in using these links:
+
+1.[Find a job in Flanders](https://www.vlaanderen.be/werken-voor-vlaanderen/vacatures){target="_blank"}
+
+2.[Find a job in Brussels](https://www.vdab.be/vindeenjob/jobs/brussel-regio){target="_blank"}
+
+3.[Find a job in Wallonia](https://www.wallonie.be/fr/jobs){target="_blank"}
+
 # Access your bank account
 
 1. For **Belfius**, click on this link : <https://www.belfius.be/common/FR/fw/language.html>{target="_blank"}.
@@ -85,19 +93,6 @@ These links could be useful to you:
 4. [Het Laatste Nieuws](https://www.hln.be/){target="_blank"}
 5. [Le Soir](https://www.lesoir.be/){target="_blank"}
 
-# Looking for a job?
-
-You might find a job you're interested in using these links:
-
-1.[Find a job in Flanders](https://www.vlaanderen.be/werken-voor-vlaanderen/vacatures){target="_blank"}
-
-2.[Find a job in Brussels](https://www.vdab.be/vindeenjob/jobs/brussel-regio){target="_blank"}
-
-3.[Find a job in Wallonia](https://www.wallonie.be/fr/jobs){target="_blank"}
-
-# Redeem your code
-
-Thank you for using the internet, you are doing great ! Redeem the code your partner has received to have a chance at winning a brand new computer [here](). 
 
 # Want to learn more?
 
@@ -106,7 +101,7 @@ Are you interested in learning more ? Do you wish to further develop your digita
 </div>
 <div class="col-sm-6">
 
-# **Learn digital skills here**{.unlisted .unnumbered}
+# **Don’t need this guide ? Click [here](https://www.google.com/).**{.unlisted .unnumbered}
 
 [![](images/logo.png)](https://www2.telenet.be/residential/nl)
 
@@ -116,6 +111,5 @@ Are you interested in learning more ? Do you wish to further develop your digita
 Follow the simple steps on this page to access what you need in only a few clicks. You can change the language at the top of the screen. Need more help? **Call us: 015 66 66 66.** We are here for you ! 
 
 
-Don’t need this guide ? Click [here](https://www.google.com/).
 </a>
 </div>
